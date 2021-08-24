@@ -1,6 +1,6 @@
 # Browser-Clone
 
-This project aims in creating a web browser that will use Yahho as its search engine. 
+<b>This project aims in creating a web browser that will use Yahho as its search engine.</b>
 
 1.The web browser fetches the information from the web. 
 
@@ -9,9 +9,9 @@ This project aims in creating a web browser that will use Yahho as its search en
 
 Modules to be installed:
 
- 1. pip install PyQt5
+ 1. --pip install PyQt5--
  
- 2. pip install PyQt5WebEngine
+ 2. --pip install PyQt5WebEngine--
 
 
 
