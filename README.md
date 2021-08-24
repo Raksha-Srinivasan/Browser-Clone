@@ -7,11 +7,13 @@
 2.The user sees the fetched information.
 
 
-Modules to be installed:
+<b>Modules to be installed:</b>
 
- 1. --pip install PyQt5--
+
+ 1. pip install PyQt5
  
- 2. --pip install PyQt5WebEngine--
+ 
+ 2. pip install PyQt5WebEngine
 
 
 
