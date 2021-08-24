@@ -4,7 +4,7 @@
 
 1.The web browser fetches the information from the web. 
 
-2.The user sees the fetched information.
+2.The user views the fetched information.
 
 
 <b>Modules to be installed:</b>
