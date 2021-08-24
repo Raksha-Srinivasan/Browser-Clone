@@ -7,10 +7,10 @@ This project aims in creating a web browser that will use Yahho as its search en
 2.The user sees the fetched information.
 
 
-Required Packages to Install:
+Modules to be installed:
 
-1. pip install PyQt5
+ 1. pip install PyQt5
 
-2.pip install PyQt5WebEngine
+ 2.pip install PyQt5WebEngine
 
 
