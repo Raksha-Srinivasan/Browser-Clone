@@ -1,6 +1,6 @@
 # Browser-Clone
 
-<b>This project aims in creating your own web browser that will use Yahoo! as its search engine.</b>
+<b>This project aims in creating your own web browser that will use Bing as its search engine.</b>
 
 1.The web browser fetches the information from the web. 
 
