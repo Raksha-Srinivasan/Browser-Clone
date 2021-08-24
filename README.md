@@ -2,6 +2,15 @@
 
 This project aims in creating a web browser that will use Yahho as its search engine. 
 
-The web browser fetches the information from the web. 
+1.The web browser fetches the information from the web. 
 
-The user sees the fetched information.
+2.The user sees the fetched information.
+
+
+Required Packages to Install:
+
+1. pip install PyQt5
+
+2.pip install PyQt5WebEngine
+
+
